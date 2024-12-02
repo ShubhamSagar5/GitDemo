@@ -1,2 +1,2 @@
 # GitDemo
-This is a Demo For Git Demo
+This is a Demo For Git Demo.
